@@ -13,7 +13,7 @@ updates from Utkarsh
 --------------------------------------------
 SIT Updates from Mayank 
 SIEBEL 
-OSM
+
 
 SIT updates from utkarsh
 emulator
